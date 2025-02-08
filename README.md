@@ -18,23 +18,12 @@ I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-## 🔥 Notable Projects
-- **Neural Style Transfer**
-- **Live Object Detection**
-- **Live Gender Detection**
+
 
 ## 🎯 Current Focus
 - Building applications using RNNs, progressing from basic to advanced
 - Studying research papers on AI/ML
 - Looking for an ML internship
-
-## 📫 Connect With Me
-
-## 🖥️ Languages Used
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,sql" alt="Languages Used" />
-</p>
-
 
 
 ### 📊 LeetCode Stats
