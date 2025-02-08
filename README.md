@@ -23,7 +23,7 @@ I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working
 ## 🎯 Current Focus
 - Building applications using RNNs, progressing from basic to advanced
 - Studying research papers on AI/ML
-- Looking for an ML internship
+
 
 
 ### 📊 LeetCode Stats
