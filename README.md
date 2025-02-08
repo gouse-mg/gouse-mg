@@ -34,3 +34,17 @@ I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working
   </a>
 </p>
 
+### 📊 LeetCode Stats
+
+| Difficulty | Solved | Total |
+|------------|--------|--------|
+| 🟢 Easy    | 30     | 856    |
+| 🟡 Medium  | 68     | 1793   |
+| 🔴 Hard    | 12     | 796    |
+| **Total**  | **110** | **3445** |
+<p align="left">
+  <a href="https://leetcode.com/u/m_gouse/">
+    <img src="https://leetcode-badge.vercel.app/api?username=m_gouse&style=flat" alt="LeetCode Profile" />
+  </a>
+</p>
+
