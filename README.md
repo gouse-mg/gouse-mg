@@ -30,17 +30,12 @@ I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working
 
 ## 📫 Connect With Me
 
-## 🏆 LeetCode Profile
+## 🖥️ Languages Used
 <p align="left">
-  <a href="https://leetcode.com/u/m_gouse/">
-    <img src="https://leetcard.jacoblin.cool/m_gouse" alt="LeetCode Profile" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,sql" alt="Languages Used" />
 </p>
-<p align="left">
-  <a href="https://leetcode.com/u/m_gouse/">
-    <img src="https://leetcode-badge.vercel.app/api?username=m_gouse&style=flat" alt="LeetCode Profile" />
-  </a>
-</p>
+
+
 
 ### 📊 LeetCode Stats
 
@@ -48,10 +43,5 @@ I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working
   <img src="https://leetcard.jacoblin.cool/m_gouse?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-<p align="left">
-  <a href="https://leetcode.com/u/m_gouse/">
-    <img src="https://leetcode-badge.vercel.app/api?username=m_gouse&style=flat" alt="LeetCode Profile" />
-  </a>
-</p>
-- **GitHub**: [mahammadgousewanti](https://github.com/mahammadgousewanti)
-- **LinkedIn**: [mahammadgousewanti](https://www.linkedin.com/in/mahammadgousewanti/)
+
+
