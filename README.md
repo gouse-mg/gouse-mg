@@ -1,7 +1,7 @@
 # Hi, I'm Mahammad Gouse Wanti! 👋
 
 ## 🚀 About Me
-I'm a Machine Learning enthusiast and aspiring AI/ML researcher. I enjoy working on challenging projects that push the boundaries of my knowledge. Currently, I'm exploring deep learning, transfer learning, and advanced neural network architectures.
+I'm a Machine Learning enthusiast and . I enjoy working on challenging projects that push the boundaries of my knowledge. Currently, I'm exploring deep learning, transfer learning, and advanced neural network architectures.
 
 ## 🛠️ Tech Stack
 <p align="left">
