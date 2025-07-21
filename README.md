@@ -21,7 +21,8 @@ I'm a Machine Learning enthusiast and . I enjoy working on challenging projects 
 
 
 ## 🎯 Current Focus
-- Building applications using RNNs, progressing from basic to advanced
+- Building Probablistic Models
+- Focus is On Generative AI
 - Studying research papers on AI/ML
 
 
